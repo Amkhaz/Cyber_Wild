@@ -35,7 +35,7 @@ Email: [kharboutlyak@gmail.com](mailto:kharboutlyak@gmail.com)
 
 ## Certification
 
-	![AWS SAA](https://github.com/Amkhaz/Cyber_Wild/blob/main/aws-certified-solutions-architect-associate.png)
+![AWS SAA](https://github.com/Amkhaz/Cyber_Wild/blob/main/aws-certified-solutions-architect-associate.png)
 
 - [AWS Solutions Architect](https://www.credly.com/badges/33cec594-35e8-481e-98bd-5e9516ba1877)
 
