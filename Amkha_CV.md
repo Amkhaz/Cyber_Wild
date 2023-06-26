@@ -51,7 +51,7 @@ Email: [kharboutlyak@gmail.com](mailto:kharboutlyak@gmail.com)
 - *LEADER DES ESSAIS VÉHICULES HYBRIDES*, STELLANTIS / PSA, Vélizy | 2018 - 2022
 - *STAGIAIRE BIG DATA ET MACHINE LEARNING*, Groupe Renault, Lardy | 03/2018 - 09/2018
 
-# Hobbies
+# Centre d'intérêt
 
 - Astronomie
 - Philosophie
