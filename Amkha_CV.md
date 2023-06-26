@@ -1,6 +1,6 @@
 # Présentation
 
-![Image de Profil](lien_vers_votre_image)
+![Image de Profil](https://github.com/Amkhaz/Cyber_Wild/blob/main/Amin%20Kharboutly.jpg)
 
 Je suis un Ingénieur Cloud Data certifié AWS SAA, avec un Master en Big Data de **TRENDYTECH** et un diplômé de l'**École Centrale Nantes**. J'ai 5 ans d'expérience dans l'industrie automobile. 
 
