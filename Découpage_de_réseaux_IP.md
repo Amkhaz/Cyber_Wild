@@ -1,5 +1,8 @@
 ## Découpage Symétrique
 
+	-On choisit le CIDR du sous-réseau qui nécessite le plus grand nombre d'adresses IP, dans notre cas c'est le Pole Informatique 
+	50 IP requis + 2 IP (réseau et broadcast) = 52, donc il faut choisir 64 (2^6) CIDR = 32 - 6 = 26
+
 | Pôle | Adresse du réseau | Sous-réseau | Plage d'adresses hôte | Adresse de diffusion | Nombre d'IPs |
 |------|-------------------|-------------|-----------------------|----------------------|--------------|
 | Informatique | 172.16.1.0 | 172.16.1.0/26 | 172.16.1.1 - 172.16.1.62 | 172.16.1.63 | 62 |
@@ -10,6 +13,8 @@
 
 
 ## Découpage Asymétrique
+
+	-ça depend de chaque reseau, par exemple, Pole Technicien, 15 IPs requis, 15 + 2(ip réseau et broadcast) = 17 qui est inclus dans 32 (2^5), CIDR = 32 -5 = 27 
 
 | Pôle | Adresse du réseau | Sous-réseau | Plage d'adresses hôte | Adresse de diffusion | Nombre d'IPs |
 |------|-------------------|-------------|-----------------------|----------------------|--------------|
