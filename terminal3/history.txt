@@ -1,0 +1,20 @@
+  233  cd /root
+  234  ls
+  235  cd terminal3/
+  236  curl https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv -o wilders.csv
+  237  ls
+  238  grep 'JavaScript' wilders.csv 
+  239  grep 'JavaScript' wilders.csv |grep 'Toulouse'or 'Biarritz'
+  240  grep 'Java' wilders.csv | grep -E 'Toulouse|Biarritz'
+  241  grep 'JavaScript' wilders.csv | grep -E 'Toulouse|Biarritz'
+  242  grep 'JavaScript' wilders.csv | grep -E 'Toulouse|Biarritz' > javascript_biarritz_toulouse.csv
+  243  ls
+  244  head javascript_biarritz_toulouse.csv 
+  245  history 
+  246  ls
+  247  grep 'France,2019,PHP' wilders.csv > php_france_2019.csv
+  248  ls
+  249  head php_france_2019.csv 
+  250  ls
+  251  history 
+  252  history | tail -20 > history.txt
