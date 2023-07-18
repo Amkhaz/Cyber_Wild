@@ -18,3 +18,5 @@
   250  ls
   251  history 
   252  history | tail -20 > history.txt
+  253  grep -c 'France,2019,PHP' wilders.csv >php_france_2019.csv
+  254  cat php_france_2019.csv
